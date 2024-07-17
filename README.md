@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UDAY525
 - 👀 I’m interested in Problem Solving, React JS, MongoDB, Node Js, Express Js
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a Full Stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
